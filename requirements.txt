@@ -1,0 +1,6 @@
+colorama==0.4.6
+httpx==0.24.1
+pandas==1.5.2
+Requests==2.31.0
+tenacity==8.1.0
+XlsxWriter==3.0.5
